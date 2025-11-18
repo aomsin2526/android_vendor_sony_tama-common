@@ -967,7 +967,6 @@ PRODUCT_PACKAGES += \
     tad \
     taimport_vendor \
     tftp_server \
-    thermal-engine \
     time_daemon \
     vppservice \
     wfdhdcphalservice \
